@@ -2,7 +2,7 @@
 // @name        moo.io hacks free edition
 // @namespace    -
 // @version     25.4
-// @description  moo/ krunker.io hacks!
+// @description  moo/ krunker.io hacks!!
 // @author       The moistpenguin aka epickid_321
 // @match        *://moomoo.io/*
 // @match        *://krunker.io/*
